@@ -1,0 +1,6 @@
+ MySQL Database Project for Sales Analytics
+• Derived and reported on net sales, highlighting top markets, products, and customers; created stored procedures for variable entity 
+retrieval.
+• Developed logic based stored procedure for market badges: 'gold' for sales >5 million, 'silver' otherwise. 
+• Analyzed region-wise net sales by customers using over() clause, visualized using Excel pie charts. 
+• Used CTEs and dense rank() to pinpoint top 'n' products by sales within divisions.
